@@ -1,0 +1,70 @@
+.logIn {
+    display: inline-block;
+    vertical-align: top;
+    width: 25.5rem;
+}
+form {
+    width: 22.5rem;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-bottom: 40px;
+    margin: 30px 20px;
+}
+    .top-border {
+        background-color: #2296F3;
+        height: 30px;
+        border-top-right-radius: 18px;
+        border-top-left-radius: 18px;
+    }
+    .inputs {
+       width: 19.5rem;
+       background-color: white;
+       margin: 10px 20px 10px 20px;
+       padding: 5px;
+       border: 2px solid black;
+    }
+    img {
+        width: 20px;
+        height: 20px;
+        margin-top: 2px;
+        margin-right: 3px;
+    }
+    input {
+        height: 25px;
+        width: 17.5rem;
+        vertical-align: top;
+        border: none;
+        text-decoration: none;
+    }
+    input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+    .btn {
+        display: block;
+        width: 20rem;
+        height: 35px;
+        border-radius: 5px;
+        margin: 10px 20px 0 23px;
+    }
+    a {
+        text-decoration: none;
+        color: rgb(79, 202, 243);
+        margin-left: 64%;
+    }
+    #green {
+        background-color: lightgreen;
+        color: white;
+    }
+    #green:hover {
+        background-color: rgb(43, 245, 43);
+        cursor: pointer;
+    }
+    #blue {
+        background-color: lightblue;
+        color: white;
+    }
+    #blue:hover {
+        background-color: #2296F3;
+        cursor: pointer;
+    }
